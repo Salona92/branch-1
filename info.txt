@@ -1,3 +1,6 @@
 student 
 name : salona
 rollno : 23bcac50
+college : kristu jayanti college 
+
+updatind details 
